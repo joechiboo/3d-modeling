@@ -1,0 +1,16 @@
+# 文字檔統一 LF 進 repo
+* text=auto eol=lf
+
+# 模型／輸出檔一律當二進位，git 不要碰換行
+*.stl binary
+*.3mf binary
+*.step binary
+*.stp binary
+*.f3d binary
+*.gcode binary
+
+# 素材
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.pdf binary

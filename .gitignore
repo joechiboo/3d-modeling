@@ -1,0 +1,15 @@
+# 匯出／匯入用的壓縮包，不進版控（內容已在各案子目錄裡）
+*.zip
+
+# OpenSCAD 自動備份
+*.scad.bak
+*.bak
+
+# 切片軟體暫存
+*.gcode
+*.3mf.bak
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
